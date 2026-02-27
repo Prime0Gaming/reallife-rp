@@ -7,6 +7,6 @@ Bitte gib an:
 - Was ist passiert?
 - Beweise (Video/Screenshot)
 
-➡️ **Report Formular:** DEIN_FORM_LINK_HIER  
-(z. B. Google Form)  
+➡️ **Report Formular:** 
+(---)  
 oder per Discord Ticket: [Support](support.md)
