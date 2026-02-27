@@ -1,15 +1,9 @@
-# Shop
+ # Shop
 
 Hier kannst du den Server unterstützen und Vorteile kaufen.
 
 ## Zahlungsanbieter / Shop Plattform
 ➡️ **Shop öffnen:** **DEIN_SHOP_LINK_HIER**
-
-Beispiele:
-- Tebex
-- Sellix
-- Ko-fi
-- PayPal (nur wenn sauber/seriös)
 
 ---
 
